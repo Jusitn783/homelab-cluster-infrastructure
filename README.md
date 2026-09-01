@@ -16,3 +16,14 @@ Engineered and deployed a 5-node Debian Linux home lab cluster managed via CasaO
 * **Networking & Security:** Static IP Routing, OpenVPN
 * **Monitoring:** Grafana
 * **Applications:** Immich, Jellyfin, Obsidian, NeoForge
+## Screenshots & Architecture Overview
+
+### Cluster Setup & Dashboards
+![Proxmox Cluster](./Screenshots%20for%205%20cluster%20Server/ProxmoxCluster.png)
+![CasaOS Dashboard](./Screenshots%20for%205%20cluster%20Server/CasaOS.png)
+![CasaOS Apps](./Screenshots%20for%205%20cluster%20Server/CasoOS%20Media%20App.png)
+
+### Services & OS
+![Debian Node](./Screenshots%20for%205%20cluster%20Server/Debain.png)
+![Debian Screen](./Screenshots%20for%205%20cluster%20Server/DebianScreen.png)
+![Obsidian Sync](./Screenshots%20for%205%20cluster%20Server/obsidian.png)
