@@ -20,7 +20,7 @@ My goal with this server environment is to expand my knowledge in infrastructure
 | **Server 2** | HP EliteDesk 800 G1 DM | Intel Core i5-4590T @ 2.00GHz | 8GB | 500GB HDD |
 | **Server 3** | Lenovo ThinkCentre M93p | Intel Core i5-4570 @ 3.20GHz | 16GB | 500GB HDD |
 | **Server 4** | Lenovo ThinkCentre M93p | Intel Core i5-4570 @ 3.20GHz | 16GB | 500GB HDD |
-| **Server 5** | Lenovo ThinkCentre M93p | Intel Core i5-4570 @ 3.20GHz | 16GB | 500GB HDD/ 128GB SSD |
+| **Server 5** | Lenovo ThinkCentre M93p | Intel Core i5-4570 @ 3.20GHz | 16GB | 500GB HDD / 128GB SSD |
 
 ## Tech Stack
 * **Hypervisor & OS:** Proxmox VE 9.2, Debian 13.6
