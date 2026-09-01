@@ -17,7 +17,8 @@ Engineered and deployed a 5-node Debian Linux home lab cluster managed via CasaO
 * **Monitoring:** Grafana
 * **Applications:** Immich, Jellyfin, Obsidian, NeoForge
 ## Screenshots & Architecture Overview
-
+### Physical Hardware Setup
+![Physical Hardware Setup]()
 ### Cluster Setup & Dashboards
 ![Proxmox Cluster](./Screenshots%20for%205%20cluster%20Server/ProxmoxCluster.png)
 ![CasaOS Dashboard](./Screenshots%20for%205%20cluster%20Server/CasaOS.png)
